@@ -2,7 +2,7 @@
 
 ## Student Information
 * Sandikha Rahardi
-* РИМ-130908
+* РИМ-230908
 
 ## Project Overview
 This project is a lab assignment focused on classifying email messages as either "spam" or "not-spam" using the K-Nearest Neighbors (KNN) algorithm. The notebook demonstrates the process of preprocessing the data, building a custom KNN classifier, and evaluating the model's performance.
